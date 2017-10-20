@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+
+    <dbname value="Calculator"></dbname> <!--数据库名称-->
+    <version value="1"></version>
+    <list>
+        <mapping class="comn.example.yws.calculator.Result"></mapping>
+    </list>
+</litepal>
